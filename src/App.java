@@ -15,7 +15,9 @@ public class App {
             System.out.println("x=" + v.getX() + ", y=" + v.getY());
             System.out.println("ancho=" + v.getWidth() + ", alto=" + v.getHeight());
 
-            
+            System.out.print("hola");
+
+
 
 
         }
